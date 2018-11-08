@@ -1,0 +1,15 @@
+
+.user-block2 img {
+    width: 100px;
+    height: auto;
+    margin: auto;
+    /*display: block;*/
+}
+
+button[type=submit][name=delete_modal] {
+	border-radius: 0 2px 2px 0 !important;
+}
+
+.help-block{ color: red; }
+
+.btn{color:black!important;font-size: 15px}
